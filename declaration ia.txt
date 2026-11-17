@@ -1,0 +1,18 @@
+Déclaration d'utilisation de l'intelligence artificielle
+
+Dans le cadre de la réalisation de ce TP, j'ai utilisé des outils d'intelligence artificielle comme outils d'assistance à l'apprentissage et au développement.
+
+L'utilisation de l'IA représente une estimation personnelle d'environ 50 % d'assistance dans le processus global de réalisation. Cette estimation ne signifie pas que l'intégralité du travail a été réalisée automatiquement.
+
+Les principaux usages de l'intelligence artificielle ont été les suivants :
+
+- Recherche et compréhension : rechercher des informations complémentaires et obtenir des explications sur les notions théoriques complexes du TP, notamment l'entropie, le codage de Huffman, le code de Hamming, la modulation QPSK et le filtrage.
+- Correction et débogage : identifier, comprendre et corriger certaines erreurs de programmation MATLAB et des problèmes rencontrés lors de l'utilisation de Simulink.
+- Assistance au développement : obtenir de l'aide pour certaines portions de code simples, améliorer des scripts existants et accélérer les tâches répétitives.
+- Compréhension des résultats : faciliter l'interprétation des simulations, des graphiques et des performances de la chaîne de transmission.
+
+L'objectif principal de cette utilisation était l'apprentissage. L'intelligence artificielle a servi d'outil de soutien pour comprendre les difficultés, résoudre les problèmes techniques et progresser plus efficacement.
+
+Le travail personnel reste essentiel : comprendre les programmes, étudier les méthodes utilisées, vérifier les corrections proposées, exécuter les simulations et être capable d'expliquer les choix techniques et les résultats obtenus.
+
+Je reste responsable du contenu du projet, des vérifications effectuées et de la compréhension des travaux présentés.
